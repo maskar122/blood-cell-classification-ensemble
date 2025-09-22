@@ -27,12 +27,16 @@ Mobile Optimization: TensorFlow Lite models for efficient deployment
 Data Augmentation: Advanced preprocessing for robust training
 
 ## 📁 Project Structure
+
 blood-cell-classification/
 │
 ├── models/
 │   ├── VGG16_model.tflite
+
 │   ├── ResNet_model.tflite
+
 │   ├── inception_model.tflite
+
 │   └── training_notebooks/
 │       ├── vgg16.ipynb
 │       ├── resnet.ipynb
