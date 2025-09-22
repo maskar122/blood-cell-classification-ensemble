@@ -7,6 +7,12 @@ https://img.shields.io/badge/Blood-Cell%2520Classification-red
 https://img.shields.io/badge/Deep-Learning-blue
 https://img.shields.io/badge/TensorFlow-2.12%252B-orange
 
+## 🖼️ Project Demo
+
+![Blood Cell Classification - Ensemble Model](https://github.com/maskar122/blood-cell-classification-ensemble/blob/55f70d9d55ae5a1599ca0eabbebba68b3f037427/images/Screenshot%20(598).png)
+![Blood Cell Classification - Ensemble Model](https://github.com/maskar122/blood-cell-classification-ensemble/blob/55f70d9d55ae5a1599ca0eabbebba68b3f037427/images/Screenshot%20(599).png)
+
+
 ## 🏆 Performance Highlights
 Model	Test Accuracy	Precision	Recall	F1-Score
 InceptionV3	100%	1.00	1.00	1.00
