@@ -1,5 +1,6 @@
 ## Blood Cell Classification - Ensemble Model
-#📋 Project Overview
+
+##📋 Project Overview
 This project implements an ensemble deep learning system for classifying blood cell images into four types: Eosinophil, Lymphocyte, Monocyte, and Neutrophil. The system combines three state-of-the-art CNN architectures (VGG16, ResNet50, InceptionV3) with a smart ensemble mechanism that selects the most confident prediction.
 
 https://img.shields.io/badge/Blood-Cell%2520Classification-red
@@ -40,12 +41,15 @@ blood-cell-classification/
 ├── app/
 │   └── app.py              # Streamlit web application
 │
+
 ├── ensemble/
 │   └── ensemble.ipynb      # Ensemble model implementation
 │
+
 ├── data/
 │   └── dataset2-master/    # Blood cell images dataset
 │
+
 └── requirements.txt
 
 ## 🚀 Quick Start
@@ -56,7 +60,7 @@ TensorFlow 2.12+
 
 Streamlit
 
-##🔬 Technical Implementation
+##  🔬 Technical Implementation
 Model Architectures
 1. VGG16
 Base Model: Pre-trained on ImageNet
