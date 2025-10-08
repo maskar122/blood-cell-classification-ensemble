@@ -9,8 +9,8 @@ https://img.shields.io/badge/TensorFlow-2.12%252B-orange
 
 ## 🖼️ Project Demo
 
-![Blood Cell Classification - Ensemble Model](https://github.com/maskar122/blood-cell-classification-ensemble/blob/55f70d9d55ae5a1599ca0eabbebba68b3f037427/images/Screenshot%20(598).png)
-![Blood Cell Classification - Ensemble Model](https://github.com/maskar122/blood-cell-classification-ensemble/blob/55f70d9d55ae5a1599ca0eabbebba68b3f037427/images/Screenshot%20(599).png)
+![Blood Cell Classification - Ensemble Model](https://github.com/maskar122/blood-cell-classification-ensemble/blob/ecb8cde15c0a8bb4e50ee144024af158874afbdb/images/Screenshot%20(668).png)
+![Blood Cell Classification - Ensemble Model](https://github.com/maskar122/blood-cell-classification-ensemble/blob/ecb8cde15c0a8bb4e50ee144024af158874afbdb/images/Screenshot%20(669).png)
 
 
 ## 🏆 Performance Highlights
